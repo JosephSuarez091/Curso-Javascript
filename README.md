@@ -1,1 +1,1 @@
-Hola amigo ha pasado un largo tiempo
+"Hola amigo ha pasado un largo tiempo"
